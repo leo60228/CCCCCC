@@ -10,10 +10,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="MonoMod">
-      <HintPath>./MonoMod.exe</HintPath>
-      <Private>false</Private>
-    </Reference>
     <Reference Include="On.Celeste">
       <HintPath>../../MMHOOK_Celeste.dll</HintPath>
       <Private>false</Private>
